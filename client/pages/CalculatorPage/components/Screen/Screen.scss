@@ -1,9 +1,7 @@
 .screen {
-  // height: 110px;
   min-height: 110px;
   width: 340px;
   margin-bottom: 1.5px;
-  // padding: 2px; 
   cursor: pointer;
   display: flex;
   align-items: center;
@@ -14,6 +12,7 @@
 
 
   font-size: 80px;
+  font-family: 'Times New Roman', Times, serif;
   color: white;
 
   padding: 10px;
@@ -22,9 +21,26 @@
   word-wrap: break-word;
 }
 
-.screen input {
-  display: flex;
-  align-items: center;
-  justify-content: flex-end;
-  font-weight: "",
-}
+// .screen input {
+//   min-height: 110px;
+//   width: 340px;
+//   margin-bottom: 1.5px;
+//   cursor: pointer;
+//   // display: flex;
+//   // align-items: center;
+//   // justify-content: flex-end;
+//   box-sizing: border-box;
+//   border-top-right-radius: 10px;
+//   border-top-left-radius: 10px;
+
+
+//   font-size: 80px;
+//   font-family: 'Times New Roman', Times, serif;
+//   color: white;
+
+//   padding: 10px;
+//   background-color: rgb(91 82 82);
+  
+//   word-wrap: break-word;
+//   text-align: right;
+// }
